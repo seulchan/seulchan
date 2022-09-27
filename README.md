@@ -1,4 +1,4 @@
-<h2 align="center">Developer 황슬찬 👋</h2>
+<h2 align="center">Developer 황슬찬! 👋</h2>
 <h3 align="center">A beginner web developer from South Korea</h3>
 
 - 🌱 I’m currently learning **CSS, HTML and JAVA**
