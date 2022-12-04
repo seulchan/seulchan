@@ -66,8 +66,6 @@
 </p>
 <br>
 
-[![Seulchan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=seulchan&custom_title=Seulchan's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://seulchan.github.io)
-
 
 <p align="center">
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseulchan%2Fseulchan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
