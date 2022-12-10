@@ -30,7 +30,7 @@
 <div align="center">
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seulchan07@gmail.com)
-  <!---[![image](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@seulchan)  --->
+[![image](https://img.shields.io/badge/Tistory-09B3AF?style=for-the-badge&logo=tistory&logoColor=white)](https://hogwarts-cs.tistory.com)
 
 </div>
 
