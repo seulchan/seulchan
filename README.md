@@ -11,21 +11,16 @@
 
 - ⚡ What I like to do: **I like playing video game, watching tv shows, doing nothing ...and coding of course**
 
-<details>
-  <summary> <h3>Projects</h3></summary>
-  
-  <!---
-  | Command | Description |
-| --- | --- |
-| ... | ... |
-  --->
-  
-| Project | Tags |
-| --- | --- |
-| [Semantic Segmentation of Colon Cancer Primaries](https://github.com/seulchan/DLD1) | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)|
-</details>  
 
+<h3 align="center">Projects</h3>
+<div align="center">
 
+| Project | Description |
+| --- | --- |
+| [Semantic Segmentation of Colon Cancer Primaries](https://github.com/seulchan/DLD1) | [Kor](https://growing-everyday-chan.notion.site/867c5b89f2b84abfae4d9190d05a6c4d) / [Eng](https://growing-everyday-chan.notion.site/Semantic-Segmentation-of-Colon-Cancer-Primaries-64dab15e94944dccb43cd308befff92e)|
+| [Community Forum](https://github.com/seulchan/community_forum_toy_project) | [Kor](https://growing-everyday-chan.notion.site/fea90314cadd43728283391607b04204) / [Eng](https://growing-everyday-chan.notion.site/Community-Forum-bd14901d2d7a41eba445fcac3532dff9)|
+  
+</div>
 <h3 align="center">Connect with me</h3>
 <div align="center">
 
