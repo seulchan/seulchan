@@ -19,7 +19,7 @@
 | --- | --- |
 | [Semantic Segmentation of Colon Cancer Primaries](https://github.com/seulchan/DLD1) | [Kor](https://growing-everyday-chan.notion.site/b982b8f508d44647a9985ad78449177d) / [Eng](https://growing-everyday-chan.notion.site/Semantic-Segmentation-of-Colon-Cancer-Primaries-64dab15e94944dccb43cd308befff92e)|
 | [Community Forum](https://github.com/seulchan/community_forum_toy_project) | [Kor](https://growing-everyday-chan.notion.site/92db8bc429a8466385e6c5ae755f0404) / [Eng](https://growing-everyday-chan.notion.site/Community-Forum-bd14901d2d7a41eba445fcac3532dff9)|
-| [연차/당직 관리 웹 애플리케이션](https://github.com/growing-every-day/work-schedule-management-backend) | [Kor](https://www.notion.so/growing-everyday-chan/d546187119a64ecdb695aa0de08855d5) / [Eng](https://growing-everyday-chan.notion.site/Work-Schedule-Management-Web-App-ec16c8c3f0be4efab0c3f44f87a8649f)|
+| [Work schedule management web application](https://github.com/growing-every-day/work-schedule-management-backend) | [Kor](https://www.notion.so/growing-everyday-chan/d546187119a64ecdb695aa0de08855d5) / [Eng](https://growing-everyday-chan.notion.site/Work-Schedule-Management-Web-App-ec16c8c3f0be4efab0c3f44f87a8649f)|
   
 </div>
 <h3 align="center">Connect with me</h3>
