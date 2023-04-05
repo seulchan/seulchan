@@ -17,8 +17,8 @@
 
 | Project | Description |
 | --- | --- |
-| [Semantic Segmentation of Colon Cancer Primaries](https://github.com/seulchan/DLD1) | [Kor](https://growing-everyday-chan.notion.site/867c5b89f2b84abfae4d9190d05a6c4d) / [Eng](https://growing-everyday-chan.notion.site/Semantic-Segmentation-of-Colon-Cancer-Primaries-64dab15e94944dccb43cd308befff92e)|
-| [Community Forum](https://github.com/seulchan/community_forum_toy_project) | [Kor](https://growing-everyday-chan.notion.site/83992ea4542f4748af9ff4ee79629fd7) / [Eng](https://growing-everyday-chan.notion.site/Community-Forum-bd14901d2d7a41eba445fcac3532dff9)|
+| [Semantic Segmentation of Colon Cancer Primaries](https://github.com/seulchan/DLD1) | [Kor](https://growing-everyday-chan.notion.site/b982b8f508d44647a9985ad78449177d) / [Eng](https://growing-everyday-chan.notion.site/Semantic-Segmentation-of-Colon-Cancer-Primaries-64dab15e94944dccb43cd308befff92e)|
+| [Community Forum](https://github.com/seulchan/community_forum_toy_project) | [Kor](https://growing-everyday-chan.notion.site/92db8bc429a8466385e6c5ae755f0404) / [Eng](https://growing-everyday-chan.notion.site/Community-Forum-bd14901d2d7a41eba445fcac3532dff9)|
   
 </div>
 <h3 align="center">Connect with me</h3>
