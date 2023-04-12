@@ -50,7 +50,7 @@
 <h3 align="center">Github Stats</h3>
 <p align="left">
   <a href="https://seulchan.github.io">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=seulchan&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=seulchan&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=seulchan&theme=gruvbox&hide_border=true" />
   </a>
 </p>
