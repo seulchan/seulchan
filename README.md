@@ -1,11 +1,9 @@
 <h1 align="center">Hello 👋, I'm Seulchan Hwang </h1>
-<h2 align="center">A beginner backend developer from South Korea</h2>
-
-- 🌱 I’m currently learning **JAVA and Spring**
+<h2 align="center">A software developer from South Korea</h2>
 
 - 🧠 I'm interestend in **web development, machine learning, and deep learning**
 
-- 👯 I’m looking to collaborate on **back-end projects**
+- 👯 I’m looking to collaborate on **back-end or machine learning projects**
 
 - 📫 How to reach me: **seulchan07@gmail.com**
 
