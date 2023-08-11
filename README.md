@@ -3,7 +3,7 @@
 
 - 🧠 I'm interestend in **web development, machine learning, and deep learning**
 
-- 👯 I’m looking to collaborate on **back-end or machine learning projects**
+- 👯 I’m looking to collaborate on **web or machine learning projects**
 
 - 📫 How to reach me: **seulchan07@gmail.com**
 
