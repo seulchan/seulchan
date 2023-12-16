@@ -9,6 +9,7 @@
 
 - ⚡ What I like to do: **I like playing video game, watching tv shows, doing nothing ...and coding of course**
 
+- 💘 Currently, I am interested in: Rust 🦀
 
 <h3 align="center">Projects</h3>
 <div align="center">
