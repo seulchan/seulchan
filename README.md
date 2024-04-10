@@ -14,9 +14,9 @@
 <h3 align="center">Projects</h3>
 <div align="center">
 
-| Project | Description |
-| --- | --- |
-| [Semantic Segmentation of Colon Cancer Primaries](https://github.com/seulchan/DLD1) | [Kor](https://growing-everyday-chan.notion.site/b982b8f508d44647a9985ad78449177d) / [Eng](https://growing-everyday-chan.notion.site/Semantic-Segmentation-of-Colon-Cancer-Primaries-64dab15e94944dccb43cd308befff92e)|
+| Project | 
+| --- |
+| [Semantic Segmentation of Colon Cancer Primaries](https://github.com/seulchan/DLD1) |
 
 </div>
 <h3 align="center">Connect with me</h3>
