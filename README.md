@@ -1,4 +1,4 @@
-## Who am I?
+### :technologist: Who am I?
 ```python
 class WhoAmI:
     name = "Chan"
@@ -25,6 +25,8 @@ class WhoAmI:
 ```
 
 ---
+
+### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#304](https://github.com/bojieli/ai-agent-book/pull/304) in [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
