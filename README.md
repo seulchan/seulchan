@@ -29,8 +29,8 @@ class WhoAmI:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#304](https://github.com/bojieli/ai-agent-book/pull/304) in [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
-2. 💪 Opened PR [#304](https://github.com/bojieli/ai-agent-book/pull/304) in [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
+1. 🚀 Published release [Wooju v1.0.0](https://github.com/seulchan/wooju/releases/tag/v1.0.0) in [seulchan/wooju](https://github.com/seulchan/wooju)
+2. 🎉 Merged PR [#304](https://github.com/bojieli/ai-agent-book/pull/304) in [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
 <!--END_SECTION:activity-->
 
 ---
