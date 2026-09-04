@@ -29,6 +29,8 @@ class WhoAmI:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [Wooju 2.0.0rc1](https://github.com/seulchan/wooju/releases/tag/v2.0.0rc1) in [seulchan/wooju](https://github.com/seulchan/wooju)
+2. 🚀 Published release [Wooju v1.0.0](https://github.com/seulchan/wooju/releases/tag/v1.0.0) in [seulchan/wooju](https://github.com/seulchan/wooju)
 <!--END_SECTION:activity-->
 
 ---
